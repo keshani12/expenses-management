@@ -1,2 +1,2 @@
 # expenses-management
-expenses management description
+Developed the expenses management module for the GreenHarvest web application using React.js. Implemented features for users to add, view, update, and delete expenses, and automatically calculate weekly, monthly, and yearly total expenses. Built interactive charts to visualize expenses over different time periods and highlight which categories have the highest spending and lowest spending helping users clearly understand and control their costs.
